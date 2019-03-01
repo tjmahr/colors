@@ -1,5 +1,5 @@
 
-# ids::adjective_animal(1, 1, style = "snake", max_len = 6)
+# ids::adjective_animal(10, 1, style = "snake", max_len = 6)
 
 chewed_lizard:
   - "#1f8fc1"
@@ -7,6 +7,14 @@ chewed_lizard:
   - "#ff6634"
   - "#ff3131"
   - "#191919"
+
+tamed_boa:
+  # SRCLD 2019 submission
+  - "#1FA35C"
+  - "#E7552C"
+  - "#3B7B9E"
+  - "#414145"
+
 
 misc:
   - "#B6297B"

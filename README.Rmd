@@ -23,4 +23,3 @@ purrr::walk(set, function(x) {
   scales::show_col(x)  
 })
 ```
-

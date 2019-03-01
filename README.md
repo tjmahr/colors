@@ -17,6 +17,10 @@ purrr::walk(set, function(x) {
 
 ![](README_files/figure-gfm/plots-1.png)<!-- -->
 
-    #> "#B6297B"
+    #> c("#1FA35C", "#E7552C", "#3B7B9E", "#414145")
 
 ![](README_files/figure-gfm/plots-2.png)<!-- -->
+
+    #> "#B6297B"
+
+![](README_files/figure-gfm/plots-3.png)<!-- -->
