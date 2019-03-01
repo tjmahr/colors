@@ -1,0 +1,12 @@
+
+# ids::adjective_animal(1, 1, style = "snake", max_len = 6)
+
+chewed_lizard:
+  - "#1f8fc1"
+  - "#fed531"
+  - "#ff6634"
+  - "#ff3131"
+  - "#191919"
+
+misc:
+  - "#B6297B"
