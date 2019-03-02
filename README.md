@@ -21,6 +21,26 @@ purrr::walk(set, function(x) {
 
 ![](README_files/figure-gfm/plots-2.png)<!-- -->
 
-    #> "#B6297B"
+    #> c("#440154FF", "#35608DFF", "#22A884FF", "#FDE725FF")
 
 ![](README_files/figure-gfm/plots-3.png)<!-- -->
+
+    #> c("#6b7a8f", "#f7882f", "#008b8b", "#111111")
+
+![](README_files/figure-gfm/plots-4.png)<!-- -->
+
+    #> c("#EEF7FA", "#E5EAEF", "#0074D9")
+
+![](README_files/figure-gfm/plots-5.png)<!-- -->
+
+    #> c("#009DA1", "#BB655F")
+
+![](README_files/figure-gfm/plots-6.png)<!-- -->
+
+    #> c("#b0e2ff", "#8b5f65", "#473c8b")
+
+![](README_files/figure-gfm/plots-7.png)<!-- -->
+
+    #> "#B6297B"
+
+![](README_files/figure-gfm/plots-8.png)<!-- -->

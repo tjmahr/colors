@@ -15,6 +15,35 @@ tamed_boa:
   - "#3B7B9E"
   - "#414145"
 
+dissertation_ages:
+  - "#440154FF"
+  - "#35608DFF"
+  - "#22A884FF"
+  # highlight
+  - "#FDE725FF"
+
+
+dissertation_conditions:
+  - "#6b7a8f"
+  - "#f7882f"
+  - "#008b8b"
+  - "#111111"
+
+dissertation_boxes:
+  - "#EEF7FA"
+  - "#E5EAEF"
+  - "#0074D9"
+
+dissertation_etc:
+  - "#009DA1"
+  - "#BB655F"
+
+dissertation_priors:
+  - "#b0e2ff"
+  - "#8b5f65"
+  - "#473c8b"
+
+
 
 misc:
   - "#B6297B"
