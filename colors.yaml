@@ -15,13 +15,20 @@ tamed_boa:
   - "#3B7B9E"
   - "#414145"
 
+elvish_gander:
+  - "#4A5C50"
+  - "#ABAE83"
+  - "#CEA9C8"
+  - "#D4D3D1"
+  - "#F0F0F0"
+  - "#FAFAFA"
+
 dissertation_ages:
   - "#440154FF"
   - "#35608DFF"
   - "#22A884FF"
   # highlight
   - "#FDE725FF"
-
 
 dissertation_conditions:
   - "#6b7a8f"
