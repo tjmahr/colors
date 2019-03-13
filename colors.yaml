@@ -50,7 +50,23 @@ dissertation_priors:
   - "#8b5f65"
   - "#473c8b"
 
+citied_turtle:
+  - "#F9F5F4"
+  - "#DF4645"
+  - "#EBAD49"
+  - "#3F84BF"
 
+front_ibis:
+  - "#303434"
+  - "#112F30"
+  - "#3F5954"
+  - "#8DD190"
+  - "#F0EBE7"
+  - "#E8B89C"
+  - "#CE927B"
+  - "#D96E35"
+  - "#C05A30"
 
 misc:
   - "#B6297B"
+
